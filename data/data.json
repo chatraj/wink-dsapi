@@ -1,0 +1,2 @@
+[{"entityType":"vegetable", "input":[{"text":"aloo", "id":"", "value":""}, {"text":"baigan", "id":"", "value":""}, {"text":"muli", "id":"", "value":""}, , {"text":"raw banana", "id":"", "value":""}]}, {"entityType":"fruits", "input":[{"text":"apple", "id":"", "value":""}, {"text":"orrange", "id":"", "value":""}, {"text":"banana", "id":"", "value":""}]}]
+[{"text":"aloo","entityType":"vegetable"},{"text":"baiga","entityType":"vegetable"},{"text":"muli","entityType":"vegetable"}]
