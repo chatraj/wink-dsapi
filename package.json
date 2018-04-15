@@ -1,0 +1,25 @@
+{
+  "name": "wink-dsapi",
+  "version": "1.0.0",
+  "description": "wink datastore API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chatraj",
+  "license": "ISC",
+  "engines": {
+    "node": "8.9.3",
+    "npm": "5.6.0"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsonfile": "^4.0.0",
+    "mysql": "^2.15.0",
+    "wink-naive-bayes-text-classifier": "^1.1.4",
+    "wink-ner": "^0.2.1",
+    "wink-nlp-utils": "^1.7.1",
+    "wink-tokenizer": "^3.0.0"
+  }
+}
